@@ -1,1 +1,1 @@
-This is a templated linked list.
+This program showcases a templated linked list. 
